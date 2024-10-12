@@ -1,6 +1,5 @@
 
-
-Here are the steps to create and run the Flask project:
+---
 
 ### 1. **Set Up the Environment**
    - Ensure you have Python installed on your machine.
