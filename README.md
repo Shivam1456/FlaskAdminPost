@@ -89,7 +89,7 @@
    - Open your browser and go to `http://127.0.0.1:8000/` to view the application.
    - You can log in, register users, add posts, and comment based on the routes and functionality provided.
 
-### Optional:
+### Deployed on Render (Each time take 50 sec for Server restart as there Free Policy):
 - **Deploying**: When deploying, you may use `gunicorn` as the web server by running:
   ```bash
   gunicorn -w 4 run:app
